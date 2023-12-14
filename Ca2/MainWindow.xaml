@@ -1,0 +1,15 @@
+﻿<Window x:Class="Ca2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ca2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="100" Margin="611,55,0,0" VerticalAlignment="Top" Width="100" Source="/staroutline.png"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="611,217,0,0" VerticalAlignment="Top" Width="100" Source="/staroutline.png" RenderTransformOrigin="0.032,1.536"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="442,0,0,0" VerticalAlignment="Center" Width="100" Source="/staroutline.png" RenderTransformOrigin="-3.426,1.669"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="689,105,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>
